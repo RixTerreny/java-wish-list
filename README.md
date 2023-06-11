@@ -10,4 +10,4 @@ Welcome to the java-wish-list repository! This repository contains a Java progra
 
 - Printing: The sorted wish list will be printed to the console, allowing users to see the final list.
 
-- Bonus: File Persistence: The program offers the option to save the wish list to a file. This allows users to retrieve their previous wish lists when restarting the program.
+Bonus: File Persistence: The program offers the option to save the wish list to a file. This allows users to retrieve their previous wish lists when restarting the program.
